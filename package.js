@@ -1,6 +1,6 @@
 Package.describe({
   name: 'rshashkov:2gis',
-  version: '0.0.11',
+  version: '0.0.12',
   // Brief, one-line summary of the package.
   summary: '2gis layer for Leaflet',
   // URL to the Git repository containing the source code for this package.
