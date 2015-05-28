@@ -1,7 +1,7 @@
 Meteor.startup(function() {
     if (typeof L !== 'undefined') {
         if (typeof L.DGis != 'object') {
-           L.DGis = L.Class.extend({
+           	L.DGis = L.Class.extend({
 				includes: L.Mixin.Events,
 
 				options: {
